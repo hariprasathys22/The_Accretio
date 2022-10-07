@@ -2,7 +2,7 @@
   font-family: "californian";
   src: url(../assets/fonts/CALIFR.TTF) format("truetype");
 }
-
+ 
 @font-face {
   font-family: "avenirLtStd";
   src: url(../assets/fonts/FontsFree-Net-AvenirLTStd-Book.ttf)
@@ -777,7 +777,9 @@ footer .container-6 {
     width: 100%;
   }
   .container-2 p {
-    font-size: 18px;
+    font-size: 14px;
+    text-align: justify;
+    justify: inter-word;
   }
   #third {
     width: 100%;
@@ -789,7 +791,7 @@ footer .container-6 {
     align-items: center;
     height: auto;
     justify-content: space-between;
-    padding: 4rem 0rem 0rem 0rem;
+    padding: 4rem 0rem 4rem 0rem;
   }
   .left-container2 {
     height: 20vh;
@@ -805,7 +807,6 @@ footer .container-6 {
     height: auto;
     margin-top: 4rem;
     width: 85%;
-    padding-bottom: 2rem;
   }
   .values {
     width: 100%;
@@ -825,7 +826,7 @@ footer .container-6 {
     padding: 10px 20px;
   }
   .buttons .show p {
-    font-size: 15px;
+    font-size: 13px;
   }
   .learn-more {
     margin-right: 20px;
