@@ -687,7 +687,7 @@ footer .container-6 {
 @media only screen and (min-width: 320px) and (max-width: 480px) {
   header {
     width: 100%;
-    padding-left: 4rem;
+    padding-left: 2rem;
     padding-right: 0rem;
   }
   header span {
@@ -791,7 +791,7 @@ footer .container-6 {
     align-items: center;
     height: auto;
     justify-content: space-between;
-    padding: 4rem 0rem 4rem 0rem;
+    padding: 4rem 0rem 0rem 0rem;
   }
   .left-container2 {
     height: 20vh;
@@ -805,9 +805,9 @@ footer .container-6 {
   }
   .right-container2 {
     height: auto;
-    margin-top: 4rem;
+    margin-top: 2rem;
     width: 85%;
-    padding-bottom: 2rem;
+    
   }
   .values {
     width: 100%;
