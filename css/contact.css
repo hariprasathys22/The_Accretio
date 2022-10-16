@@ -260,12 +260,15 @@ input[type="submit"] {
   width: 100%;
   cursor: pointer;
   outline: none;
-  background: rgb(19, 18, 18);
-  color: #888888;
+  background: #262626;
+  color: #FFFFFF;
   font-size: 18px;
   border-radius: 2px;
 }
-
+.form-container .row100 .inputBox input::placeholder,
+.form-container .row100 .inputBox.textarea textarea::placeholder{
+  font-family: "avenirLtStd";
+}
 /* footer */
 
 footer {
